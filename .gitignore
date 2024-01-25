@@ -39,3 +39,4 @@ lerna-debug.log*
 !.husky/commit-msg
 !.husky/pre-commit
 !.husky/init.sh
+!.husky/install.js
