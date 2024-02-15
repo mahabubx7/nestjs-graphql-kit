@@ -2,5 +2,12 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "files.eol": "\n",
-  "cSpell.words": ["commitlint", "fastify", "gitmoji", "nestjs", "nodechecker"]
+  "cSpell.words": [
+    "commitlint",
+    "fastify",
+    "gitmoji",
+    "nestjs",
+    "nodechecker",
+    "typeorm"
+  ]
 }
